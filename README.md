@@ -1,5 +1,7 @@
 # deepLearning
 DeepLearning assignment (Test 3)
+Name - Shashank P Gurukar
+USN - 4NI20IS100
 This repository contains the implementation of a Convolutional Neural Network (CNN) for classifying small images from the CIFAR-10 dataset. The dataset consists of images belonging to ten distinct classes, each representing a specific object or category.
 
 Training and Results
