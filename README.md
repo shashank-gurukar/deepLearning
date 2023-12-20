@@ -1,8 +1,11 @@
 # deepLearning
 DeepLearning assignment (Test 3)
-This repository contains the implementation of a Convolutional Neural Network (CNN) for the MNIST dataset, a popular dataset for handwritten digit recognition. The CNN architecture is designed to leverage the spatial information in the images, making it well-suited for image classification tasks.
+This repository contains the implementation of a Convolutional Neural Network (CNN) for classifying small images from the CIFAR-10 dataset. The dataset consists of images belonging to ten distinct classes, each representing a specific object or category.
 
 Training and Results
+
+![download (1)](https://github.com/shashank-gurukar/deepLearning/assets/87583458/892c72d7-98e3-4a1a-a3b6-f47a63215c66)
+
 
 The CNN is trained for 10 epochs, and the training progress is summarized below:
 
@@ -21,4 +24,4 @@ Observations
 
 After 5 epochs, the CNN achieved a notable accuracy improvement, reaching around 70%. This result demonstrates the effectiveness of CNNs in image classification tasks, particularly for handwritten digit recognition. Additionally, the CNN's computational efficiency is enhanced by max-pooling, which reduces image dimensions while preserving essential features.
 
-Feel free to explore and modify the code for further experimentation and improvements.
+
